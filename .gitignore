@@ -1,0 +1,14 @@
+#folders
+Binaries/
+Intermediate/
+Saved/
+Build/
+Android_ASTC/
+DerivedDataCache/
+.vs/
+WindowsNoEditor/
+
+#files
+*.sln
+*.zip
+*.bat
